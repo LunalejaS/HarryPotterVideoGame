@@ -1,6 +1,6 @@
 package SpellBehavior;
 
-public class WingrdiumLeviosa implements Spell {
+public class WingardiumLeviosa implements Spell {
     @Override
     public void spell() {
         System.out.println("Wingardium Leviosa!");

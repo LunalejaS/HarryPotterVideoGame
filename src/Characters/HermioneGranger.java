@@ -1,10 +1,10 @@
 package Characters;
 
-import SpellBehavior.WingrdiumLeviosa;
+import SpellBehavior.WingardiumLeviosa;
 
 public class HermioneGranger extends Character {
     public HermioneGranger() {
-        setSpell(new WingrdiumLeviosa());
+        setSpell(new WingardiumLeviosa());
     }
 
     @Override
