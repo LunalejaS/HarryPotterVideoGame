@@ -10,6 +10,10 @@ The main goal is to allow characters to have different spell behaviors and chang
 
 - **Note:** The spell behaviors are represented through the Spell interface and can be changed at runtime.
 
+## UML Diagram
+<img width="688" height="662" alt="harrypottervideogame Class diagram" src="https://github.com/user-attachments/assets/e53412b4-460f-4f3a-95e8-41e5278021ed" />
+
+
 ## Project Structure
 
 - Package: `SpellBehavior`
@@ -55,5 +59,5 @@ During program execution, their spell behaviors can be changed using the setSpel
 
 
 
-*Last Modification: 12/08/2026*
+*Last Modification: 13/08/2026*
 > Luna A. Sandoval Rodríguez
